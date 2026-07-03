@@ -3,7 +3,7 @@ import 'package:snapbook/theme/colors.dart';
 import 'package:snapbook/screens/home/widgets/header_section.dart';
 import 'package:snapbook/services/booking_service.dart';
 import 'package:snapbook/models/booking_model.dart';
-import 'package:snapbook/screens/riwayat/rating_screen.dart';
+import 'package:snapbook/screens/history/rating_screen.dart';
 
 String _studioImagePath(String studioName) {
   const map = {
@@ -414,7 +414,7 @@ class _EmptyState extends StatelessWidget {
             child: const Icon(Icons.inbox_outlined, size: 44, color: AppColors.grey),
           ),
           const SizedBox(height: 16),
-          const Text('Belum ada riwayat booking',
+          const Text('Belum ada history booking',
               style: TextStyle(fontSize: 15, fontWeight: FontWeight.w600, color: AppColors.black)),
           const SizedBox(height: 6),
           const Text('Booking studio favoritmu sekarang!',

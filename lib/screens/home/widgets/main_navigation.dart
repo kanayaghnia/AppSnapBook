@@ -4,7 +4,7 @@ import 'package:snapbook/screens/home/home_screen.dart';
 import 'package:snapbook/screens/booking/booking_screen.dart';
 import 'package:snapbook/screens/studio/studio_screen.dart';
 import 'package:snapbook/screens/account/account_screen.dart';
-import 'package:snapbook/screens/riwayat/history_booking_user.dart';
+import 'package:snapbook/screens/history/history_booking_user.dart';
 import 'package:snapbook/screens/about/about_us_screen.dart';
 import 'package:snapbook/screens/help/help_center_screen.dart';
 import 'package:snapbook/screens/promotions/promotions_screen.dart';
