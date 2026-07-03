@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285085371704",
+    "project_id": "snapbook-mp",
+    "storage_bucket": "snapbook-mp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285085371704:android:c4a3852b342f043404c5cd",
+        "android_client_info": {
+          "package_name": "com.example.snapbook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwr3YHzZgEDltft2oeifukwnzKkUj627I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
